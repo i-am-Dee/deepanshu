@@ -1,2 +1,0 @@
-# deepanshu
-My web Portfolio
